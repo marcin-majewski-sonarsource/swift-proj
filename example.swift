@@ -5,6 +5,6 @@ func doSomething(param1: String, param2: String, param3: String, param4: String,
     print("Hello, World 2")
 }
 
-func 123() {
+func a123() {
     print("Bla bla")
 }
